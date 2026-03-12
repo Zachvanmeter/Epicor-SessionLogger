@@ -1,4 +1,5 @@
 **Session Management and Logs**
+
 <img width="657" height="383" alt="image" src="https://github.com/user-attachments/assets/031771bc-4b25-4ad9-9074-ad1343746b1d" />
 
 
@@ -6,6 +7,7 @@ We recently added a company, and that means adding licenses, and then negotiatin
 
 **What do you need to do to set it up?**
 You need to open SessionLogger.py with a text editor and fill out the needed variables as seen in this image.
+
 <img width="1001" height="240" alt="image" src="https://github.com/user-attachments/assets/822617a0-8fc3-423c-a40e-702f160d1f7d" />
 
 You will also need to set up an API Key in Epicor.
