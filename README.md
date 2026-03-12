@@ -9,6 +9,7 @@ You need to open SessionLogger.py with a text editor and fill out the needed var
 <img width="1001" height="240" alt="image" src="https://github.com/user-attachments/assets/822617a0-8fc3-423c-a40e-702f160d1f7d" />
 
 You will also need to set up an API Key in Epicor.
+
 <img width="475" height="282" alt="image" src="https://github.com/user-attachments/assets/5fcfe431-0220-41fb-b628-959dd1c0e0d7" />
 
 The end result is a spreadsheet which can be used to create graphics like this one.
